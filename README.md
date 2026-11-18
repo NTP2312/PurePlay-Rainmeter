@@ -9,7 +9,7 @@ A clean, lightweight, transparent white media widget for Rainmeter featuring smo
 
 ## 📥 Download & Compatibility
 Choose the installer matching your Rainmeter version:
-- **Rainmeter 5.0+ (Recommended):** `PurePlay_v1.1_Rainmeter5.0+.rmskin` *(Native "PlayerName=Windows" integration)*
-- **Rainmeter 4.5.x:** `PurePlay_v1.0_Rainmeter4.5.rmskin` *(Legacy stable build)*
+- **Rainmeter 5.0+ (Recommended):** `PurePlay_v1.1_Rainmeter5.0+.rmskin` 
+- **Rainmeter 4.5.x:** `PurePlay_v1.0_Rainmeter4.5.rmskin` 
 
 👉 **[Download Latest Releases Here](https://github.com/NTP2312/PurePlay-Rainmeter/releases/tag/rainmeter)**
